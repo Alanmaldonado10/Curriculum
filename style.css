@@ -24,3 +24,15 @@
 .info i{
     font-size: xx-large;
 }
+.Educacion a{
+    font-size: 50px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+.Educacion i{
+    font-size: xx-large;
+}
+.añoses {
+   
+    color: brown;
+}
