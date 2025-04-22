@@ -59,6 +59,10 @@
 .horario i{
     font-size: xx-large;
 }
+.hora {
+    font-size: 20px;
+    color: rgb(179, 37, 37);
+}
  li{
     font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 20px;
