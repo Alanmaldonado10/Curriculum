@@ -1,11 +1,26 @@
 .encabezado {
     background-color:antiquewhite ;
     text-align: center;
-    font-size: small;
+    font-size: xx-large;
     
     }
 .encabezado img {
     height: 20%;
     width: 20%;
     
+}
+.intro {
+    text-align: center;
+    font-size: xx-large;
+    font-family:Georgia, 'Times New Roman', Times, serif
+    ;
+}
+
+.info a{
+    font-size: 50px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+
+}
+.info i{
+    font-size: xx-large;
 }
